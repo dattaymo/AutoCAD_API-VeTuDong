@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCAD_API-VeTuDong", "AutoCAD_API-VeTuDong\AutoCAD_API-VeTuDong.csproj", "{BA5D4C89-8E66-4B6C-A7AF-0F4BA90ABE9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA5D4C89-8E66-4B6C-A7AF-0F4BA90ABE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5D4C89-8E66-4B6C-A7AF-0F4BA90ABE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5D4C89-8E66-4B6C-A7AF-0F4BA90ABE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5D4C89-8E66-4B6C-A7AF-0F4BA90ABE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D86204AD-8790-4587-852A-E19CC8438489}
+	EndGlobalSection
+EndGlobal
